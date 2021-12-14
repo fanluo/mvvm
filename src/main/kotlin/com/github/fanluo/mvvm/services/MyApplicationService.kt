@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.fanluo.mvvm.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fanluo.mvvm.MyBundle
 
 class MyApplicationService {
 
